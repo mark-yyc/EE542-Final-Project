@@ -11,6 +11,7 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="title_activity_image_upload">ImageUploadActivity</string>
+    <string name="title_activity_food">ImageUploadActivity</string>
 
     <!-- Preference Titles -->
     <string name="messages_header">Messages</string>
