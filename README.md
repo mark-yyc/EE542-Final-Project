@@ -2,7 +2,7 @@
 Member: 
 
 - Yicheng Yang: [Github](https://github.com/mark-yyc)
-- Tianyu: [Github](https://github.com/tianyu0923)
+- Tianyu Peng: [Github](https://github.com/tianyu0923)
 - Yang Jiao: [Github](https://github.com/Young884)
 
 ### File Structure
